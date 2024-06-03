@@ -1,2 +1,2 @@
-# Digitally-sign-a-PDF-document-in-Flutter
-Example application to digitally sign a PDF document using Syncfusion Flutter PDF Viewer
+# Digitally sign a PDF document in Flutter
+This repository contains the example which demonstrates how to digitally sign a PDF document using Syncfusion Flutter PDF Viewer.
